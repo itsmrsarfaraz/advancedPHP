@@ -66,8 +66,8 @@
     </nav>
 
     <!-- video header -->
-    <header class="card text-bg-dark rounded-0">
-        <video src="assets/videos/visitdubaibg.mp4" class="object-fit-cover card-img rounded-0" muted loop autoplay></video>
+    <header class="card text-bg-dark rounded-0 border-0">
+        <video src="assets/videos/visitdubaibg.mp4" class="object-fit-cover card-img rounded-0 border-0" muted loop autoplay></video>
         <div class="card-img-overlay align-self-center">
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-2 g-2">
@@ -85,6 +85,52 @@
         </div>
     </header>
     <!-- /video header -->
+
+    <!-- introduction -->
+    <div class="bg-light">
+        <div class="container py-5 position-relative">
+            <div class="row row-cols-1 row-cols-md-2 g-2">
+                <div class="col mx-auto">
+                    <h1 class="text-center text-capitalize">Dynamic Website Title</h1>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas impedit obcaecati quia quos necessitatibus ex veritatis soluta numquam libero nulla, distinctio eligendi veniam quo esse beatae saepe iste voluptas molestiae.
+                    </p>
+                    <p class="text-center">
+                        Nesciunt ad consequuntur, commodi, eius mollitia ea, quam beatae quibusdam non fuga temporibus esse maiores neque harum. Quibusdam, magnam corrupti? Distinctio soluta earum voluptatibus laboriosam, doloremque fuga similique unde incidunt!
+                    </p>
+                </div>
+            </div>
+            <!-- Icons -->
+            <div class="position-absolute top-100 start-50 translate-middle">
+                <div class="row row-cols-1">
+                    <div class="col mx-auto">
+                        <div class="card shadow" style="border-radius: 100px;">
+                            <div class="row align-items-center p-2">
+                                <div class="col">
+                                    <img src="assets/images/icons/camel-ride-icon.png" width="100%" class="img-fluid" alt="camel riding dubai">
+                                </div>
+                                <div class="col">
+                                    <img src="assets/images/icons/dune-bashing.png" width="100%" class="img-fluid" alt="dune basing dubai">
+                                </div>
+                                <div class="col">
+                                    <img src="assets/images/icons/dune-buggy-icon.png" width="100%" class="img-fluid" alt="dune buggy dubai">
+                                </div>
+                                <div class="col">
+                                    <img src="assets/images/icons/horse-riding-icon.png" width="100%" class="img-fluid" alt="horse riding dubai">
+                                </div>
+                                <div class="col">
+                                    <img src="assets/images/icons/quad-bike-icons.png" width="100%" class="img-fluid" alt="quad biking dubai">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- / icons -->
+        </div>
+    </div>
+    <!-- /introduction -->
+
+
 
 
     <!-- JS -->
