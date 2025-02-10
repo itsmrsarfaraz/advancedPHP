@@ -35,25 +35,10 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item text-capitalize" href="#desertsafari">Desert safari</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item text-capitalize" href="#dunebuggy">Dune Buggy</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item text-capitalize" href="#quadbiking">Quad Biking</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item text-capitalize" href="#citytours">City tours</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item text-capitalize" href="#yachtrentals">Yacht Rentals</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
                             <li><a class="dropdown-item text-capitalize" href="#dhowcruises">Dhow Cruises</a></li>
                         </ul>
                     </li>
@@ -130,8 +115,453 @@
     </div>
     <!-- /introduction -->
 
+    <!-- Desert Safari Dubai -->
+    <div class="d-flex align-items-center pt-5" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for Desert Safari Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Desert%20Safari" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Desert%20Safari" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Desert%20Safari" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Desert Safari Dubai -->
 
+    <!-- Dune Buggy Dubai -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for Dune Buggy Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dune%20Buggy" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dune%20Buggy" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dune%20Buggy" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Dune Buggy Dubai -->
 
+    <!-- Quad Bike Dubai -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for Quad Bike Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Quad%20Bike" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Quad%20Bike" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Quad%20Bike" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Quad Bike Dubai -->
+
+    <!-- Yacht Rentals Dubai -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for Yacht Rentals Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Yacht%20Rentals" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Yacht%20Rentals" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Yacht%20Rentals" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Yacht Rentals Dubai -->
+
+    <!-- Dhow Cruise Dubai -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for Dhow Cruise Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dhow%20Cruises" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dhow%20Cruises" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=Dhow%20Cruises" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / Dhow Cruise Dubai -->
+
+    <!-- City Tours Dubai -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-md-2">
+                <div class="col mx-auto">
+                    <h2 class="text-center text-uppercase">Dynamic Title for City Tours Section</h2>
+                    <p class="text-center">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit laborum neque cupiditate odit! Optio atque accusamus nobis excepturi dolorem numquam. Sed amet sunt dolor dolorum reiciendis odio, itaque quod officia?
+                    </p>
+                    <p class="text-center">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus beatae temporibus illo fuga unde sunt eius culpa velit quae rerum, dolor obcaecati vel quis dolorem possimus sequi delectus cum? Nisi.
+                    </p>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=City%20Tours" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=City%20Tours" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-3">
+                    <div class="card">
+                        <img src="https://dummyimage.com/800x600.jpg?text=City%20Tours" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="text-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-outline-success text-uppercase"><i class="fa-solid fa-whatsapp"></i> WhatsApp</a>
+                                    <a href="#" class="btn btn-outline-secondary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Details</a>
+                                    <a href="#" class="btn btn-outline-primary text-uppercase"><i class="fa-solid fa-whatsapp"></i> Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- / City Tours Dubai -->
+
+    <!-- About Section -->
+    <div class="d-flex align-items-center" style="min-height: 100vh;">
+        <div class="container py-5">
+            <div class="row row-cols-1 row-cols-sm-2 align-items-center g-3">
+                <div class="col">
+                    <img src="https://dummyimage.com/800x600.jpg?text=About%20Section" class="img-fluid shadow rounded" alt="About Section Image alt text">
+                </div>
+                <div class="col">
+                    <h2>About Section</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum magni quam cumque asperiores a nihil praesentium veniam unde, iusto non natus quas accusamus dolor? Excepturi commodi repellat temporibus quas eaque?
+                    </p>
+                    <div class="row row-cols-2 g-1">
+                        <div class="col">
+                            <div class="d-flex align-items-center">
+                                <div class="p-2 rounded-circle d-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-whatsapp fa-2x"></i>
+                                </div>
+                                <h4>This is the heading</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /About Section -->
+
+    <div class="container py-5">
+        <h2 class="text-center text-uppercase">Gallery</h2>
+        <div class="row row-cols-3 row-cols-sm-4 row-cols-md-5 row-cols-lg-6 g-2">
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+            <div class="col"><img src='https://dummyimage.com/800x600.jpg?text=1' class="img-thumbnail img-fluid" alt='' /></div>
+        </div>
+    </div>
 
     <!-- JS -->
     <script src="assets/js/bootstrap.bundle.min.js"></script>
